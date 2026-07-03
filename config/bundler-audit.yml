@@ -1,0 +1,4 @@
+# Audit gems for known security problems with bin/bundler-audit.
+# Add CVE identifiers here only when they do not apply to this application.
+
+ignore: []

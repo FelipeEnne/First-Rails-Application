@@ -1,0 +1,3 @@
+# Ensure bin scripts keep Unix line endings on Windows checkouts.
+bin/* text eol=lf
+*.sh text eol=lf
